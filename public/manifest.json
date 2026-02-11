@@ -1,0 +1,21 @@
+{
+  "short_name": "Jibra Group",
+  "name": "Jibra Group of Companies",
+  "description": "Premium tobacco manufacturing, global commodity trading, and professional consultancy services.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "jibra-logo.png",
+      "sizes": "500x491",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1A1A2E",
+  "background_color": "#ffffff"
+}

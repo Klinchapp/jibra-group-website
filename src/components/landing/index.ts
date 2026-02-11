@@ -1,0 +1,8 @@
+export { Nav } from './Nav'
+export { Hero } from './Hero'
+export { About } from './About'
+export { Portfolio } from './Portfolio'
+export { GlobalPresence } from './GlobalPresence'
+export { BrandPortfolio } from './BrandPortfolio'
+export { News } from './News'
+export { Footer } from './Footer'

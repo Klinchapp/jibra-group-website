@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Disallow: /sign-in
+Disallow: /sign-up
+Disallow: /sign-out
+Disallow: /forgot-password
+Disallow: /reset-password
+
+Sitemap: https://www.jibragroup.com/sitemap.xml

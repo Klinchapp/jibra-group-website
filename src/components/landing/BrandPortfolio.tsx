@@ -180,11 +180,11 @@ export function BrandPortfolio() {
                   aria-label={`${index + 1} of ${brands.length}: ${brand.name}`}
                 >
                   {/* Image Side */}
-                  <div className="relative h-[400px] lg:h-[600px] overflow-hidden">
+                  <div className="relative h-[400px] lg:h-[600px] overflow-hidden bg-black flex items-center justify-center">
                     <img
                       src={brand.image}
                       alt={`${brand.name} cigarette pack — ${brand.tagline}`}
-                      className="w-full h-full object-cover"
+                      className="w-full h-full object-contain p-4"
                       loading="lazy"
                     />
                     <div className="absolute inset-0 bg-gradient-to-r from-black/60 to-transparent lg:hidden" />
